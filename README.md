@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*l019gUgngy4XhGcDpUjqfQ.png))
+![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*l019gUgngy4XhGcDpUjqfQ.png)
 
 <h1 align="center">Hi 👋, I'm İbraCoding</h1>
 <h3 align="center">A passionate flutter developer from Türkiye</h3>
