@@ -1,8 +1,26 @@
-👋 Hi, I’m @ibracoding
-👀 I’m interested in exploring the world of mobile app development with Flutter.
-🌱 I’m currently learning the basics of Flutter, including Dart programming, building widgets, and creating responsive user interfaces.
-💞️ I’m looking to collaborate on beginner-friendly projects where I can contribute and learn from more experienced developers.
-📫 How to reach me: You can reach me via email at teknowit.16@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/ibrahim36/).
-😄 Pronouns: He/Him
-⚡ Fun fact: I watch training videos and often get inspiration from them for my applications and designs.
+<h1 align="center">Hi 👋, I'm İbraCoding</h1>
+<h3 align="center">A passionate flutter developer from Türkiye</h3>
 
+- 🔭 I’m currently working on **Flutter**
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fflutter-dart-firebase-multi-store-app-2024-edition%2F&psig=AOvVaw015vqPFpnY3FKpqBY_1Akd&ust=1721690073233000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMC4u76huYcDFQAAAAAdAAAAABAE)
+
+- 🌱 I’m currently learning **Dart , Flutter**
+
+- 💬 Ask me about **flutter,Dart**
+
+- 📫 How to reach me **teknowit.16@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ibrahim36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim36" height="30" width="40" /></a>
+<a href="https://instagram.com/ibrahim3616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahim3616" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibracoding&show_icons=true&locale=en&layout=compact" alt="ibracoding" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibracoding&show_icons=true&locale=en" alt="ibracoding" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibracoding&" alt="ibracoding" /></p>
